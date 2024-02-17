@@ -1,5 +1,5 @@
 # Not-a-Simple-Increment
-Leetcode
+Edabit & Leetcode Challenge
 
 Not a Simple Increment
 Create a function that takes three integer parameters: a number n, number of iterations, and step. You have to implement an algorithm, which increases the given number as explained below:
